@@ -1,5 +1,3 @@
-# system-monitor
-Python script for monitoring CPU, Memory, and Disk usage.
 # 🖥️ System Resource Monitor
 
 A simple Python script that monitors system **CPU, Memory, and Disk usage**, logging the results with timestamps.  
